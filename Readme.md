@@ -4,4 +4,4 @@
 
 ## instagram : just.arunn
 
-## GitHub : justArunn
+## GitHub : JustArunn
